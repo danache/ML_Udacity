@@ -1,0 +1,1207 @@
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2016.6.24)  24 JUN 2016 21:07
+entering extended mode
+**./boston_housing.tex
+(boston_housing.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+(D:\Latex\tex\latex\base\article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(D:\Latex\tex\latex\base\size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (D:\Latex\tex\latex\fontspec\fontspec.sty (D:\Latex\tex\latex\l3kernel\expl3.
+sty
+Package: expl3 2016/05/18 v6512 L3 programming layer (loader) 
+
+(D:\Latex\tex\latex\l3kernel\expl3-code.tex
+Package: expl3 2016/05/18 v6512 L3 programming layer (code)
+L3 Module: l3bootstrap 2016/02/12 v6412 L3 Bootstrap code
+L3 Module: l3names 2016/03/11 v6433 L3 Namespace for primitives
+L3 Module: l3basics 2015/11/22 v6315 L3 Basic definitions
+L3 Module: l3expan 2015/09/10 v5983 L3 Argument expansion
+L3 Module: l3tl 2016/03/26 v6465 L3 Token lists
+L3 Module: l3str 2016/03/24 v6441 L3 Strings
+L3 Module: l3seq 2015/08/05 v5777 L3 Sequences and stacks
+L3 Module: l3int 2016/03/24 v6441 L3 Integers
+\c_max_int=\count87
+\l_tmpa_int=\count88
+\l_tmpb_int=\count89
+\g_tmpa_int=\count90
+\g_tmpb_int=\count91
+L3 Module: l3quark 2015/08/17 v5855 L3 Quarks
+L3 Module: l3prg 2015/11/01 v6216 L3 Control structures
+\g__prg_map_int=\count92
+L3 Module: l3clist 2015/09/02 v5901 L3 Comma separated lists
+L3 Module: l3token 2016/04/03 v6470 L3 Experimental token manipulation
+L3 Module: l3prop 2016/01/05 v6366 L3 Property lists
+L3 Module: l3msg 2016/03/26 v6464 L3 Messages
+L3 Module: l3file 2016/03/25 v6458 L3 File and I/O operations
+\l_iow_line_count_int=\count93
+\l__iow_target_count_int=\count94
+\l__iow_current_line_int=\count95
+\l__iow_current_word_int=\count96
+\l__iow_current_indentation_int=\count97
+L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
+\c_zero_dim=\dimen103
+\c_max_dim=\dimen104
+\l_tmpa_dim=\dimen105
+\l_tmpb_dim=\dimen106
+\g_tmpa_dim=\dimen107
+\g_tmpb_dim=\dimen108
+\c_zero_skip=\skip43
+\c_max_skip=\skip44
+\l_tmpa_skip=\skip45
+\l_tmpb_skip=\skip46
+\g_tmpa_skip=\skip47
+\g_tmpb_skip=\skip48
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+L3 Module: l3keys 2015/11/17 v6284 L3 Key-value interfaces
+\g__keyval_level_int=\count98
+\l_keys_choice_int=\count99
+L3 Module: l3fp 2016/03/26 v6465 L3 Floating points
+\c__fp_leading_shift_int=\count100
+\c__fp_middle_shift_int=\count101
+\c__fp_trailing_shift_int=\count102
+\c__fp_big_leading_shift_int=\count103
+\c__fp_big_middle_shift_int=\count104
+\c__fp_big_trailing_shift_int=\count105
+\c__fp_Bigg_leading_shift_int=\count106
+\c__fp_Bigg_middle_shift_int=\count107
+\c__fp_Bigg_trailing_shift_int=\count108
+L3 Module: l3box 2015/08/09 v5822 L3 Experimental boxes
+\c_empty_box=\box26
+\l_tmpa_box=\box27
+\l_tmpb_box=\box28
+\g_tmpa_box=\box29
+\g_tmpb_box=\box30
+L3 Module: l3coffins 2016/05/17 v6508 L3 Coffin code layer
+\l__coffin_internal_box=\box31
+\l__coffin_internal_dim=\dimen109
+\l__coffin_offset_x_dim=\dimen110
+\l__coffin_offset_y_dim=\dimen111
+\l__coffin_x_dim=\dimen112
+\l__coffin_y_dim=\dimen113
+\l__coffin_x_prime_dim=\dimen114
+\l__coffin_y_prime_dim=\dimen115
+\c_empty_coffin=\box32
+\l__coffin_aligned_coffin=\box33
+\l__coffin_aligned_internal_coffin=\box34
+\l_tmpa_coffin=\box35
+\l_tmpb_coffin=\box36
+\l__coffin_display_coffin=\box37
+\l__coffin_display_coord_coffin=\box38
+\l__coffin_display_pole_coffin=\box39
+\l__coffin_display_offset_dim=\dimen116
+\l__coffin_display_x_dim=\dimen117
+\l__coffin_display_y_dim=\dimen118
+L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
+L3 Module: l3sys 2015/09/25 v6087 L3 Experimental system/runtime functions
+L3 Module: l3candidates 2016/05/13 v6484 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen119
+\l__box_bottom_dim=\dimen120
+\l__box_left_dim=\dimen121
+\l__box_right_dim=\dimen122
+\l__box_top_new_dim=\dimen123
+\l__box_bottom_new_dim=\dimen124
+\l__box_left_new_dim=\dimen125
+\l__box_right_new_dim=\dimen126
+\l__box_internal_box=\box40
+\l__coffin_bounding_shift_dim=\dimen127
+\l__coffin_left_corner_dim=\dimen128
+\l__coffin_right_corner_dim=\dimen129
+\l__coffin_bottom_corner_dim=\dimen130
+\l__coffin_top_corner_dim=\dimen131
+\l__coffin_scaled_total_height_dim=\dimen132
+\l__coffin_scaled_width_dim=\dimen133
+L3 Module: l3luatex 2016/03/26 v6465 L3 Experimental LuaTeX-specific functions
+)
+(D:\Latex\tex\latex\l3kernel\l3xdvipdfmx.def
+File: l3xdvidpfmx.def 2016/03/26 v6465 L3 Experimental driver: xdvipdfmx
+\l__driver_tmp_box=\box41
+))
+(D:\Latex\tex\latex\l3packages\xparse\xparse.sty
+Package: xparse 2016/05/18 v6512 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count109
+\l__xparse_m_args_int=\count110
+\l__xparse_mandatory_args_int=\count111
+\l__xparse_processor_int=\count112
+\l__xparse_v_nesting_int=\count113
+)
+Package: fontspec 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTeX
+
+(D:\Latex\tex\latex\fontspec\fontspec-xetex.sty
+Package: fontspec-xetex 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTe
+X
+\l_fontspec_script_int=\count114
+\l_fontspec_language_int=\count115
+\l_fontspec_strnum_int=\count116
+\l__fontspec_tmpa_dim=\dimen134
+\l__fontspec_tmpb_dim=\dimen135
+\l__fontspec_tmpc_dim=\dimen136
+\g__file_internal_ior=\read1
+
+(D:\Latex\tex\latex\base\fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+ (D:\Latex\tex\latex\euenc\eu1enc.def
+File: eu1enc.def 2010/05/27 v0.1h Experimental Unicode font encodings
+)
+LaTeX Font Info:    Try loading font information for EU1+lmr on input line 105.
+
+
+(D:\Latex\tex\latex\euenc\eu1lmr.fd
+File: eu1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+(D:\Latex\tex\xelatex\xunicode\xunicode.sty
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
+other characters in Unicode lower plane
+ (D:\Latex\\tex\latex\tipa\t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+LaTeX Font Info:    Try loading font information for EU1+lmss on input line 357
+.
+(D:\Latex\tex\latex\euenc\eu1lmss.fd
+File: eu1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+\tipaTiiicode=\count117
+\tipasavetokens=\toks14
+\tipachecktokens=\toks15
+
+(D:\Latex\tex\latex\graphics\graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\Latex\tex\latex\graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(D:\Latex\tex\latex\graphics\graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+ (D:\Latex\tex\latex\graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (D:\Latex\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 96.
+
+(D:\Latex\tex\xelatex\xetex-def\xetex.def
+File: xetex.def 2016/04/06 v4.08 LaTeX color/graphics driver for XeTeX (TeX Liv
+e/RRM/JK)
+
+(D:\Latex\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(D:\Latex\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+\Gin@req@height=\dimen137
+\Gin@req@width=\dimen138
+))
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__fontspec_post_arg:w with sig. 'mmO{}' on line 353.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fontspec with sig. 'om' on line 355.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmainfont with sig. 'om' on line 365.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setsansfont with sig. 'om' on line 375.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmonofont with sig. 'om' on line 385.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathrm with sig. 'om' on line 399.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setboldmathrm with sig. 'om' on line 407.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathsf with sig. 'om' on line 415.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathtt with sig. 'om' on line 423.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfamily with sig. 'mom' on line 437.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontface with sig. 'mom' on line 453.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \defaultfontfeatures with sig. 't+om' on line 467.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addfontfeatures with sig. 'm' on line 529.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfeature with sig. 'mm' on line 540.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newAATfeature with sig. 'mmmm' on line 548.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newopentypefeature with sig. 'mmm' on line 556.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeature with sig. 'mm' on line 577.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 586.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontscript with sig. 'mm' on line 590.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontlanguage with sig. 'mm' on line 594.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareFontsExtensions with sig. 'm' on line 599.
+.................................................
+\l__fontspec_tmp_int=\count118
+
+(D:\Latex\tex\latex\fontspec\fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 2705.
+LaTeX Info: Redefining \slshape on input line 2710.
+LaTeX Info: Redefining \scshape on input line 2715.
+LaTeX Info: Redefining \upshape on input line 2720.
+\l__fontspec_em_int=\count119
+\l__fontspec_emdef_int=\count120
+LaTeX Info: Redefining \em on input line 2736.
+LaTeX Info: Redefining \emph on input line 2742.
+LaTeX Info: Redefining \- on input line 2746.
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \oldstylenums with sig. 'm' on line 2841.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \liningnums with sig. 'm' on line 2845.
+.................................................
+))
+(D:\Latex\tex\latex\xltxtra\xltxtra.sty
+Package: xltxtra 2016/01/21 v0.6 Improvements for the "XeLaTeX" format
+
+(D:\Latex\tex\generic\oberdiek\ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(D:\Latex\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(D:\Latex\tex\latex\realscripts\realscripts.sty
+Package: realscripts 2016/02/13 v0.3d Access OpenType subscripts and superscrip
+ts
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fakesubscript with sig. 'm' on line 19.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fakesuperscript with sig. 'm' on line 22.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \textsubscript with sig. 's' on line 25.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \textsuperscript with sig. 's' on line 28.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \realsubscript with sig. 'm' on line 45.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \realsuperscript with sig. 'm' on line 60.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \textsubsuperscript with sig. 'sO{l}mm' on line 138.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \textsupersubscript with sig. 'sO{l}mm' on line 143.
+.................................................
+\subsupersep=\dimen139
+)
+(D:\Latex\tex\latex\metalogo\metalogo.sty
+Package: metalogo 2010/05/29 v0.12 Extended TeX logo macros
+\xl@everylogo=\toks17
+\xl@@everylogo=\toks18
+LaTeX Info: Redefining \TeX on input line 193.
+LaTeX Info: Redefining \LaTeX on input line 202.
+LaTeX Info: Redefining \LaTeXe on input line 219.
+)
+\l__xetex_show_hyphens_wrapping_box=\box42
+\l__xetex_show_hyphens_temp_box=\box43
+\l__xetex_show_hyphens_final_box=\box44
+\g__xetex_show_hyphens_word_box=\box45
+)
+\g__fontspec_family_MicrosoftYaHei_int=\count121
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Microsoft YaHei/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'MicrosoftYaHei(0)' created for font 'Microsoft YaHei' with
+. options [Ligatures=TeX].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.: <->"Microsoft
+. YaHei/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.: - 'bold' (bx/n) with NFSS spec.:
+. <->"Microsoft YaHei/B/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: - 'bold italic' (bx/it) with
+. NFSS spec.: <->"Microsoft
+. YaHei/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+.................................................
+
+(D:\Latex\tex\latex\adjustbox\adjustbox.sty
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+
+(D:\Latex\tex\latex\xkeyval\xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(D:\Latex\tex\generic\xkeyval\xkeyval.tex
+(D:\Latex\tex\generic\xkeyval\xkvutils.tex
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+)
+\XKV@depth=\count122
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(D:\Latex\tex\latex\adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(D:\Latex\tex\latex\adjustbox\trimclip.sty
+Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+
+(D:\Latex\tex\latex\collectbox\collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box46
+)
+\tc@llx=\dimen140
+\tc@lly=\dimen141
+\tc@urx=\dimen142
+\tc@ury=\dimen143
+Package trimclip Info: Using driver 'tc-xetex.def'.
+
+(D:\Latex\tex\latex\adjustbox\tc-xetex.def
+File: tc-xetex.def 2012/05/13 v1.0 Clipping driver for xetex
+))
+\adjbox@Width=\dimen144
+\adjbox@Height=\dimen145
+\adjbox@Depth=\dimen146
+\adjbox@Totalheight=\dimen147
+
+(D:\Latex\tex\latex\ifoddpage\ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count123
+)
+(D:\Latex\tex\latex\ltxmisc\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box47
+\sift@deathcycles=\count124
+\@vwid@loff=\dimen148
+\@vwid@roff=\dimen149
+))
+(D:\Latex\tex\latex\graphics\color.sty
+Package: color 2016/05/09 v1.1c Standard LaTeX Color (DPC)
+ (D:\Latex\tex\latex\00miktex\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: xetex.def on input line 144.
+) (D:\Latex\tex\latex\tools\enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks21
+)
+(D:\Latex\tex\latex\geometry\geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(D:\Latex\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+(D:\Latex\tex\generic\oberdiek\ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count125
+\Gm@cntv=\count126
+\c@Gm@tempcnt=\count127
+\Gm@bindingoffset=\dimen150
+\Gm@wd@mp=\dimen151
+\Gm@odd@mp=\dimen152
+\Gm@even@mp=\dimen153
+\Gm@layoutwidth=\dimen154
+\Gm@layoutheight=\dimen155
+\Gm@layouthoffset=\dimen156
+\Gm@layoutvoffset=\dimen157
+\Gm@dimlist=\toks22
+
+(D:\Latex\tex\xelatex\xetexconfig\geometry.cfg))
+(D:\Latex\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2016/03/10 v2.15b AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(D:\Latex\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (D:\Latex\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks23
+\ex@=\dimen158
+)) (D:\Latex\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen159
+)
+(D:\Latex\tex\latex\amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count128
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count129
+\leftroot@=\count130
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count131
+\DOTSCASE@=\count132
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box48
+\strutbox@=\box49
+\big@size=\dimen160
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count133
+\c@MaxMatrixCols=\count134
+\dotsspace@=\muskip16
+\c@parentequation=\count135
+\dspbrk@lvl=\count136
+\tag@help=\toks24
+\row@=\count137
+\column@=\count138
+\maxfields@=\count139
+\andhelp@=\toks25
+\eqnshift@=\dimen161
+\alignsep@=\dimen162
+\tagshift@=\dimen163
+\tagwidth@=\dimen164
+\totwidth@=\dimen165
+\lineht@=\dimen166
+\@envbody=\toks26
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(D:\Latex\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(D:\Latex\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(D:\Latex\tex\latex\eurosym\eurosym.sty
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box50
+) (D:\Latex\tex\latex\ucs\ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+(D:\Latex\tex\latex\ucs\uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count140
+\uc@combtoks=\toks28
+\uc@combtoksb=\toks29
+\uc@temptokena=\toks30
+) (D:\Latex\tex\latex\base\inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks31
+\inpenc@posthook=\toks32
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (D:\Latex\tex\latex\fancyvrb\fancyvrb.sty
+Package: fancyvrb 2008/02/07
+
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz)
+\FV@CodeLineNo=\count141
+\FV@InFile=\read2
+\FV@TabBox=\box51
+\c@FancyVerbLine=\count142
+\FV@StepNumber=\count143
+\FV@OutFile=\write3
+) (D:\Latex\tex\latex\oberdiek\grffile.sty
+Package: grffile 2016/05/16 v1.17 Extended file name support for graphics (HO)
+
+(D:\Latex\tex\latex\oberdiek\kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(D:\Latex\tex\generic\oberdiek\kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(D:\Latex\tex\generic\oberdiek\etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(D:\Latex\tex\generic\oberdiek\pdftexcmds.sty
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+Package grffile Info: \Gread@QTm patched on input line 253.
+Package grffile Info: \Gread@eps patched on input line 303.
+Package grffile Info: Option `multidot' is set to `true'.
+Package grffile Info: Option `extendedchars' is set to `false'.
+Package grffile Info: Option `space' is set to `true'.
+Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 486.
+)
+(D:\Latex\tex\latex\hyperref\hyperref.sty
+Package: hyperref 2016/05/21 v6.83p Hypertext links for LaTeX
+
+(D:\Latex\tex\generic\oberdiek\hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(D:\Latex\tex\generic\oberdiek\hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/05/16 v1.17 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(D:\Latex\tex\latex\oberdiek\auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen167
+\Hy@linkcounter=\count144
+\Hy@pagecounter=\count145
+
+(D:\Latex\tex\latex\hyperref\pd1enc.def
+File: pd1enc.def 2016/05/21 v6.83p Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count146
+
+(D:\Latex\tex\latex\00miktex\hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4486.
+Package hyperref Info: Link nesting OFF on input line 4491.
+Package hyperref Info: Hyper index ON on input line 4494.
+Package hyperref Info: Plain pages OFF on input line 4501.
+Package hyperref Info: Backreferencing OFF on input line 4506.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4735.
+\c@Hy@tempcnt=\count147
+ (D:\Latex\tex\latex\url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5088.
+\XeTeXLinkMargin=\dimen168
+\Fld@menulength=\count148
+\Field@Width=\dimen169
+\Fld@charsize=\dimen170
+Package hyperref Info: Hyper figures OFF on input line 6342.
+Package hyperref Info: Link nesting OFF on input line 6347.
+Package hyperref Info: Hyper index ON on input line 6350.
+Package hyperref Info: backreferencing OFF on input line 6357.
+Package hyperref Info: Link coloring OFF on input line 6362.
+Package hyperref Info: Link coloring with OCG OFF on input line 6367.
+Package hyperref Info: PDF/A mode OFF on input line 6372.
+LaTeX Info: Redefining \ref on input line 6412.
+LaTeX Info: Redefining \pageref on input line 6416.
+\Hy@abspage=\count149
+\c@Item=\count150
+\c@Hfootnote=\count151
+)
+
+Package hyperref Message: Driver (autodetected): hxetex.
+
+(D:\Latex\tex\latex\hyperref\hxetex.def
+File: hxetex.def 2016/05/21 v6.83p Hyperref driver for XeTeX
+ (D:\Latex\tex\latex\hyperref\puenc.def
+File: puenc.def 2016/05/21 v6.83p Hyperref: PDF Unicode definition (HO)
+) (D:\Latex\tex\generic\oberdiek\stringenc.sty
+Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box52
+\c@Hy@AnnotLevel=\count152
+\HyField@AnnotCount=\count153
+\Fld@listcount=\count154
+\c@bookmark@seq@number=\count155
+
+(D:\Latex\tex\latex\oberdiek\rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
+(rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
+
+(rerunfilecheck)             Therefore file contents cannot be checked efficien
+tly
+(rerunfilecheck)             and the loading of the package is aborted.
+)
+\Hy@SectionHShift=\skip52
+)
+(D:\Latex\tex\latex\tools\longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip53
+\LTright=\skip54
+\LTpre=\skip55
+\LTpost=\skip56
+\LTchunksize=\count156
+\LTcapwidth=\dimen171
+\LT@head=\box53
+\LT@firsthead=\box54
+\LT@foot=\box55
+\LT@lastfoot=\box56
+\LT@cols=\count157
+\LT@rows=\count158
+\c@LT@tables=\count159
+\c@LT@chunks=\count160
+\LT@p@ftn=\toks33
+)
+(D:\Latex\tex\latex\booktabs\booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen172
+\lightrulewidth=\dimen173
+\cmidrulewidth=\dimen174
+\belowrulesep=\dimen175
+\belowbottomsep=\dimen176
+\aboverulesep=\dimen177
+\abovetopsep=\dimen178
+\cmidrulesep=\dimen179
+\cmidrulekern=\dimen180
+\defaultaddspace=\dimen181
+\@cmidla=\count161
+\@cmidlb=\count162
+\@aboverulesep=\dimen182
+\@belowrulesep=\dimen183
+\@thisruleclass=\count163
+\@lastruleclass=\count164
+\@thisrulewidth=\dimen184
+) (D:\Latex\tex\latex\ulem\ulem.sty
+\UL@box=\box57
+\UL@hyphenbox=\box58
+\UL@skip=\skip57
+\UL@hook=\toks34
+\UL@height=\dimen185
+\UL@pe=\count165
+\UL@pixel=\dimen186
+\ULC@box=\box59
+Package: ulem 2012/05/18
+\ULdepth=\dimen187
+)
+Package color Info: Redefining color red on input line 52.
+Package color Info: Redefining color green on input line 53.
+Package color Info: Redefining color blue on input line 55.
+Package color Info: Redefining color cyan on input line 57.
+Package color Info: Redefining color lightgray on input line 58.
+Package hyperref Info: Option `breaklinks' set `true' on input line 237.
+Package hyperref Info: Option `colorlinks' set `true' on input line 237.
+
+No file boston_housing.aux.
+\openout1 = `boston_housing.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 244.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 244.
+(D:\Latex\tex\latex\tipa\t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+
+*** you should *not* be loading the inputenc package
+*** XeTeX expects the source to be in UTF8 encoding
+*** some features of other encodings may conflict, resulting in poor output.
+.................................................
+. fontspec info: "setup-math"
+. 
+. Adjusting the maths setup (use [no-math] to avoid this).
+.................................................
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 244.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 244.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 244.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 244.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 244.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 244.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 244.
+LaTeX Font Info:    Redeclaring math accent \check on input line 244.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 244.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 244.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 244.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 244.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 244.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 244.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 244.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 244.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 244.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 244.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 244.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 244.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 244.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 244.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 244.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 244.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 244.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> EU1/MicrosoftYaHei(0)/m/n on input line
+ 244.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 244.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> EU1/MicrosoftYaHei(0)/m/n on input lin
+e 244.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  EU1/MicrosoftYaHei(0)/m/n --> EU1/MicrosoftYaHei(0)/m/n
+ on input line 244.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> EU1/MicrosoftYaHei(0)/m/it on input li
+ne 244.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> EU1/MicrosoftYaHei(0)/bx/n on input li
+ne 244.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 244.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 244.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  EU1/MicrosoftYaHei(0)/m/n --> EU1/MicrosoftYaHei(0)/bx/
+n on input line 244.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> EU1/MicrosoftYaHei(0)/bx/it on input 
+line 244.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 244.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 244.
+*geometry* detected driver: pdftex
+
+Package geometry Warning: The marginal notes overrun the paper.
+     Add 3.73001pt and more to the right margin.
+
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(D:\Latex\tex\latex\ucs\ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+T3\textscriptg already defined.
+
+fontencoding T3 patched
+)
+\AtBeginShipoutBox=\box60
+Package hyperref Info: Link coloring ON on input line 244.
+ (D:\Latex\tex\latex\hyperref\nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(D:\Latex\tex\generic\oberdiek\gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count166
+)
+LaTeX Info: Redefining \ref on input line 244.
+LaTeX Info: Redefining \pageref on input line 244.
+LaTeX Info: Redefining \nameref on input line 244.
+\@outlinefile=\write4
+\openout4 = `boston_housing.out'.
+
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 248.
+(D:\Latex\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 248.
+ (D:\Latex\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Warning: No \author given.
+
+(D:\Latex\tex\generic\oberdiek\se-ascii-print.def
+File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
+
+)
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 303
+.
+
+(D:\Latex\tex\latex\euenc\eu1lmtt.fd
+File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `EU1/lmtt/bx/n' in size <10> not available
+(Font)              Font shape `EU1/lmtt/b/n' tried instead on input line 324.
+ [1
+
+] [2]
+Overfull \hbox (616.43964pt too wide) in paragraph at lines 441--445
+[]\EU1/MicrosoftYaHei(0)/bx/n/10 Answer:  \EU1/MicrosoftYaHei(0)/m/n/10 1.RM我理解
+的是附近邻居数。我认为趋势应该是随着RM增加，在一定范围内价格会上升。因为RM多相当于社交圈变大，可能获得的帮助也越多，人是群居动物，更倾向拥有更多的同伴？个
+人认为RM为7的价格总体趋势大于RM为6. 
+ []
+
+
+Overfull \hbox (163.88268pt too wide) in paragraph at lines 441--445
+\EU1/MicrosoftYaHei(0)/m/n/10 2.房主净资产高于邻居的百分比。我认为应该是负相关关系，人们更倾向于与周围保持在同一个经济水平？随
+着LSTAT增加，price有下降的趋势. 
+ []
+
+
+Overfull \hbox (225.03502pt too wide) in paragraph at lines 441--445
+\EU1/MicrosoftYaHei(0)/m/n/10 3.PTRATIO是地区的学生数/老师数，对于教育来说，这个值越小越好，这样学生分配的教育资源就越
+高。因此随着PRTATIO增加，PRICE应该有下降的趋势。 
+ []
+
+[3]
+Overfull \hbox (56.25572pt too wide) in paragraph at lines 535--537
+[]\EU1/MicrosoftYaHei(0)/bx/n/10 Answer: \EU1/MicrosoftYaHei(0)/m/n/10 我认为这个模型良
+好，能成功的预测目标。因为其R方为0.923.接近于1，R方越大说明该模型预测越准确。 
+ []
+
+[4]
+File: boston_housing_files/boston_housing_20_0.png Graphic file (type QTm)
+ <use  "boston_housing_files/boston_housing_20_0.png" > [5]
+Underfull \hbox (badness 10000) in paragraph at lines 615--616
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--636
+[]\EU1/MicrosoftYaHei(0)/bx/n/10 Answer:  \EU1/MicrosoftYaHei(0)/m/n/10 当max_de
+pth为1时，由图一可知随着Train point增加，Train
+ []
+
+
+Overfull \hbox (172.26646pt too wide) in paragraph at lines 626--636
+\EU1/MicrosoftYaHei(0)/m/n/10 score（即训练集的R方）呈现先下降后趋于平稳最终收敛到一个值的趋势。而测试曲线随训练数目增加先
+上升，后来处于波动状态最终趋于平稳。
+ []
+
+
+Overfull \hbox (103.58482pt too wide) in paragraph at lines 626--636
+\EU1/MicrosoftYaHei(0)/m/n/10 当max_depth为10时，由图四可知随着Train point增加，Train score（即
+训练集的R方）呈缓慢下降至平稳的趋势。测试曲线Test
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--636
+\EU1/MicrosoftYaHei(0)/m/n/10 score先增长后下降最后趋于平稳。 由两图可知，当Train point较少时，增加Train 
+point可提高Test
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--636
+\EU1/MicrosoftYaHei(0)/m/n/10 score数值，同时会降低Train score值，但当Train point增加到一定量时，Te
+st score和Train
+ []
+
+File: boston_housing_files/boston_housing_24_0.png Graphic file (type QTm)
+<use  "boston_housing_files/boston_housing_24_0.png" > [6]
+Underfull \hbox (badness 10000) in paragraph at lines 658--659
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 670--674
+[]\EU1/MicrosoftYaHei(0)/bx/n/10 Answer:  \EU1/MicrosoftYaHei(0)/m/n/10 当DEPTH为
+1时，模型欠拟合，即high bias，证据是当depth为1时Training
+ []
+
+
+Overfull \hbox (212.74498pt too wide) in paragraph at lines 670--674
+\EU1/MicrosoftYaHei(0)/m/n/10 Score具有阴影，即standard deviation。且Training分数较低。当Dept
+h为10时，产生过拟合。因为此时Validation具有很大的阴影面积，同时Validation
+ []
+
+[7]
+Overfull \hbox (1012.53827pt too wide) in paragraph at lines 710--712
+[]\EU1/MicrosoftYaHei(0)/bx/n/10 Answer:  \EU1/MicrosoftYaHei(0)/m/n/10 交叉验证是将所
+有数据按照给定数量分成训练集和测试集。通过轮流使某一部分数据当测试集，同时剩余部分数据当训练集的方法。通过多次轮流选择训练集并最后选择平均数的方法，使得演算更
+加精确。当数据排列存在某种次序时，只有使用交叉验证才能避免数据排列顺序对模型训练演算的影响。从而能选取最优模型。 
+ []
+
+[8]
+Overfull \hbox (3.00726pt too wide) in paragraph at lines 828--830
+ []|\EU1/MicrosoftYaHei(0)/m/n/10 Feature| 
+ []
+
+
+Overfull \hbox (19.24261pt too wide) in paragraph at lines 848--850
+ []|\EU1/MicrosoftYaHei(0)/m/n/10 Household 
+ []
+
+
+Overfull \hbox (9.03265pt too wide) in paragraph at lines 848--850
+ \EU1/MicrosoftYaHei(0)/m/n/10 (income)| 
+ []
+
+
+Overfull \hbox (3.56879pt too wide) in paragraph at lines 850--852
+ \EU1/MicrosoftYaHei(0)/m/n/10 percent| 
+ []
+
+
+Overfull \hbox (2.92426pt too wide) in paragraph at lines 852--854
+ []|\EU1/MicrosoftYaHei(0)/m/n/10 Bottom 
+ []
+
+
+Overfull \hbox (3.56879pt too wide) in paragraph at lines 852--854
+ \EU1/MicrosoftYaHei(0)/m/n/10 percent| 
+ []
+
+
+Overfull \hbox (3.56879pt too wide) in paragraph at lines 854--856
+ \EU1/MicrosoftYaHei(0)/m/n/10 percent| 
+ []
+
+
+Overfull \hbox (9.05707pt too wide) in paragraph at lines 857--859
+ []|\EU1/MicrosoftYaHei(0)/m/n/10 Student- 
+ []
+
+
+Overfull \hbox (2.70453pt too wide) in paragraph at lines 857--859
+ \EU1/MicrosoftYaHei(0)/m/n/10 teacher 
+ []
+
+
+Overfull \hbox (2.91937pt too wide) in paragraph at lines 857--859
+ \EU1/MicrosoftYaHei(0)/m/n/10 schools| 
+ []
+
+
+Overfull \vbox (10.5102pt too high) has occurred while \output is active []
+
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 895--900
+[]\EU1/MicrosoftYaHei(0)/bx/n/10 Answer:  \EU1/MicrosoftYaHei(0)/m/n/10 第一个房子预估
+值为$406,933.33。 第二个房子预估值为$232,200.00。
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 895--900
+\EU1/MicrosoftYaHei(0)/m/n/10 第三个房子预估值为$938,053.85。 对比Data Exploration 中的数据 房价中
+最低值为105000.00
+ []
+
+
+Overfull \hbox (45.7707pt too wide) in paragraph at lines 895--900
+\EU1/MicrosoftYaHei(0)/m/n/10 最高值为1024800 均值为454342.94 中值为438900. 对于三所房屋均处于最低值与
+最高值之间，因此认为是合理的。 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 944--951
+[]\EU1/MicrosoftYaHei(0)/bx/n/10 Answer:  \EU1/MicrosoftYaHei(0)/m/n/10 我认为采用这个
+数据拟合的模型并不能预测现在的房屋价格，原因如下。
+ []
+
+
+Overfull \hbox (338.46275pt too wide) in paragraph at lines 944--951
+\EU1/MicrosoftYaHei(0)/m/n/10 1.从运行十次得到的结果显示，采用不同数据集作为测试集和训练集最后预测的结果相差较大，可达到118
+222.22，浮动可达到30%，因此说明预测数据是较为不准确的。鲁棒性较差。 
+ []
+
+
+Overfull \hbox (108.51646pt too wide) in paragraph at lines 944--951
+\EU1/MicrosoftYaHei(0)/m/n/10 3.模型考虑的参数较少，只考虑了三个参数，在实际选择房屋时不仅仅有三个参数，因此较少的参数会使得模
+型出现欠拟合的情况。 
+ []
+
+
+Overfull \hbox (128.51646pt too wide) in paragraph at lines 944--951
+\EU1/MicrosoftYaHei(0)/m/n/10 4.城市情况不同，房屋价格也不同，城市房子的价格对于乡村来说是基本没有参考性的，因此采用此数据预测
+的模型的适用范围也太小。 
+ []
+
+
+Overfull \hbox (138.51646pt too wide) in paragraph at lines 944--951
+\EU1/MicrosoftYaHei(0)/m/n/10 5.由于选择算法的差异亦可能导致结果的差异，本次试验采用的是决策树的方法，可能采用别的算法对于同一
+个问题会有完全不同的结果。 
+ []
+
+[10]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 961.
+ [11]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 961.
+ (boston_housing.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 961.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 961.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 961.
+ ) 
+Here is how much of TeX's memory you used:
+ 23694 strings out of 428410
+ 412299 string characters out of 3164173
+ 454033 words of memory out of 3000000
+ 26878 multiletter control sequences out of 15000+200000
+ 8911 words of font info for 54 fonts, out of 3000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 48i,6n,61p,10429b,465s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on boston_housing.pdf (11 pages).
