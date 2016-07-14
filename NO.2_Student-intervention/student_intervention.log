@@ -1,7 +1,7 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2016.7.13)  13 JUL 2016 13:06
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2016.7.13)  13 JUL 2016 13:19
 entering extended mode
-**./boston_housing.tex
-(boston_housing.tex
+**./student_intervention.tex
+(student_intervention.tex
 LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 1 language(s) loaded.
 (D:\Latex\tex\latex\ctex\ctexart.cls (D:\Latex\tex\latex\l3kernel\expl3.sty
@@ -1603,8 +1603,9 @@ Package color Info: Redefining color cyan on input line 58.
 Package color Info: Redefining color lightgray on input line 59.
 Package hyperref Info: Option `breaklinks' set `true' on input line 238.
 Package hyperref Info: Option `colorlinks' set `true' on input line 238.
- (boston_housing.aux)
-\openout1 = `boston_housing.aux'.
+
+No file student_intervention.aux.
+\openout1 = `student_intervention.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 245.
 LaTeX Font Info:    ... okay on input line 245.
@@ -1624,7 +1625,6 @@ LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 245.
 LaTeX Font Info:    ... okay on input line 245.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 245.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 245.
-
 (D:\Latex\tex\latex\tipa\t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
@@ -1760,10 +1760,8 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 245.
 LaTeX Info: Redefining \pageref on input line 245.
 LaTeX Info: Redefining \nameref on input line 245.
- (boston_housing.out)
-(boston_housing.out)
 \@outlinefile=\write4
-\openout4 = `boston_housing.out'.
+\openout4 = `student_intervention.out'.
 
 
 
@@ -1780,14 +1778,6 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 LaTeX Warning: No \author given.
 
-
-LaTeX Font Warning: Font shape `EU1/MicrosoftYaHei(0)/m/it' undefined
-(Font)              using `EU1/MicrosoftYaHei(0)/m/n' instead on input line 292
-.
-
-[1
-
-]
 \g__fontspec_family_FangSong_int=\count182
 .................................................
 . fontspec info: "no-font-shape"
@@ -1804,9 +1794,9 @@ LaTeX Font Warning: Font shape `EU1/MicrosoftYaHei(0)/m/it' undefined
 . 
 . Could not resolve font FangSong/I (it probably doesn't exist).
 .................................................
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 304
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 269
 .
- (D:\Latex\tex\latex\euenc\eu1lmtt.fd
+(D:\Latex\tex\latex\euenc\eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 .................................................
@@ -1822,66 +1812,32 @@ File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 . <->"FangSong/OT:script=hani;language=DFLT;embolden=4;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.: 
 .................................................
+
+
+LaTeX Font Warning: Font shape `EU1/MicrosoftYaHei(0)/m/it' undefined
+(Font)              using `EU1/MicrosoftYaHei(0)/m/n' instead on input line 291
+.
+
+[1
+
+]
 LaTeX Font Info:    Font shape `EU1/lmtt/bx/n' in size <10.53937> not available
 
-(Font)              Font shape `EU1/lmtt/b/n' tried instead on input line 325.
+(Font)              Font shape `EU1/lmtt/b/n' tried instead on input line 306.
 
 
 LaTeX Font Warning: Font shape `EU1/MicrosoftYaHei(0)/m/sl' undefined
-(Font)              using `EU1/MicrosoftYaHei(0)/m/n' instead on input line 365
+(Font)              using `EU1/MicrosoftYaHei(0)/m/n' instead on input line 350
 .
 
-[2] [3] [4] [5] [6]
-File: boston_housing_files/boston_housing_20_0.png Graphic file (type QTm)
- <use  "boston_housing_files/boston_housing_20_0.png" >
-Underfull \hbox (badness 10000) in paragraph at lines 615--616
-
- []
-
-[7]
-File: boston_housing_files/boston_housing_24_0.png Graphic file (type QTm)
- <use  "boston_housing_files/boston_housing_24_0.png" > [8]
-Underfull \hbox (badness 10000) in paragraph at lines 658--659
-
- []
-
-[9] [10] [11]
-Overfull \hbox (4.94325pt too wide) in paragraph at lines 829--831
- []|\EU1/MicrosoftYaHei(0)/m/it/10.53937 Feature| 
- []
-
-
-Overfull \hbox (22.05406pt too wide) in paragraph at lines 849--851
- []|\EU1/MicrosoftYaHei(0)/m/it/10.53937 Household 
- []
-
-
-Overfull \hbox (4.85555pt too wide) in paragraph at lines 853--855
- []|\EU1/MicrosoftYaHei(0)/m/it/10.53937 Bottom 
- []
-
-
-Overfull \hbox (11.31937pt too wide) in paragraph at lines 858--860
- []|\EU1/MicrosoftYaHei(0)/m/it/10.53937 Student- 
- []
-
-
-Overfull \hbox (4.62398pt too wide) in paragraph at lines 858--860
- \EU1/MicrosoftYaHei(0)/m/it/10.53937 teacher 
- []
-
-
-Overfull \hbox (4.53156pt too wide) in paragraph at lines 858--860
- \EU1/MicrosoftYaHei(0)/m/it/10.53937 school- 
- []
-
-[12] [13]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 962.
+[2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1013.
  [14]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 962.
- (boston_housing.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 962.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 962.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1013.
+
+(student_intervention.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1013.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1013.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1889,15 +1845,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 962.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1013.
  ) 
 Here is how much of TeX's memory you used:
- 29145 strings out of 430315
- 545426 string characters out of 3189746
- 550568 words of memory out of 3000000
- 32092 multiletter control sequences out of 15000+200000
+ 29157 strings out of 430315
+ 547129 string characters out of 3189746
+ 556580 words of memory out of 3000000
+ 32115 multiletter control sequences out of 15000+200000
  8975 words of font info for 62 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 65i,6n,78p,10422b,486s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 65i,6n,78p,10428b,490s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on boston_housing.pdf (14 pages).
+Output written on student_intervention.pdf (14 pages).
