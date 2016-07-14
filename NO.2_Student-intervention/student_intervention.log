@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2016.7.13)  14 JUL 2016 09:39
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2016.7.13)  14 JUL 2016 14:00
 entering extended mode
 **./student_intervention.tex
 (student_intervention.tex
@@ -1829,14 +1829,13 @@ LaTeX Font Warning: Font shape `EU1/MicrosoftYaHei(0)/m/sl' undefined
 (Font)              using `EU1/MicrosoftYaHei(0)/m/n' instead on input line 350
 .
 
-[2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1033.
- [14]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1033.
-
-(student_intervention.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1033.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1033.
+[2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1007.
+ [13]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1007.
+ (student_intervention.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1007.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1007.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1844,15 +1843,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1033.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1007.
  ) 
 Here is how much of TeX's memory you used:
  29166 strings out of 430315
  547080 string characters out of 3189746
- 558453 words of memory out of 3000000
+ 561453 words of memory out of 3000000
  32118 multiletter control sequences out of 15000+200000
  8975 words of font info for 62 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  65i,6n,78p,10428b,490s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on student_intervention.pdf (14 pages).
+Output written on student_intervention.pdf (13 pages).
