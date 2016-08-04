@@ -12,7 +12,7 @@ from sklearn.cross_validation import train_test_split
 from sklearn import tree
 from sklearn.svm import SVC
 from sklearn.neighbors import KNeighborsClassifier
-import matplotlib.pyplot as plt
+
 
 import time
 from sklearn.preprocessing import StandardScaler
@@ -121,6 +121,19 @@ def bs_fit_and_save(clf, l_train, l_target, l_test, filename):
     output.to_csv(filename + ".csv", index=False)
     return clf
 
+def getFile(clf,l_test, filename):
+
+    predict_test = clf.predict(l_test)
+    predict_test = np.exp(predict_test)
+
+    output = test_orig['datetime']
+    output = pd.DataFrame(output)
+    predict = pd.DataFrame(predict_test)
+    output = output.join(predict)
+    output.columns = ['datetime', 'count']
+    output.to_csv(filename + ".csv", index=False)
+    return clf
+
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.svm import SVR
@@ -129,12 +142,18 @@ from sklearn.cross_validation import ShuffleSplit
 from  sklearn.grid_search import GridSearchCV
 
 
-
-for i in (range(50,151,5)):
-    clf = RandomForestRegressor(random_state=0, n_estimators=i)
-    clf = bs_fit_and_save(clf, train, target, test, "output_decision++"+str(i))
-#
 #clf = RandomForestRegressor(random_state=0, n_estimators=100)
 #clf = bs_fit_and_save(clf, train, target, test, "output_RandomForest")
-#clf = SVR(C=1.0, epsilon=0.2)
-#clf = bs_fit_and_save(clf, train, target, test, "output_SVR")
+clf = SVR()
+
+
+cv_sets = ShuffleSplit(train.shape[0], n_iter = 10, test_size = 0.20, random_state = 0)
+
+
+params = {'C' : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],'epsilon':[0.2,0.3,0.4,0.5,0.6,0.7,0.8]}
+
+grid = GridSearchCV(clf, params,cv = cv_sets )
+
+grid = grid.fit(train, target)
+clf = grid.best_estimator_
+clf = getFile(clf,test, "output_SVRCross")
