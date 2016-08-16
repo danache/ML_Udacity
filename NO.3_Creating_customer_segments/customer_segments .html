@@ -578,7 +578,7 @@ div#notebook {
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p><strong>Answer:</strong>
-我选取的是Grocery变量。得到的结果显示score为0.6818，由于R^2越靠近1证明拟合性越好，0.67只能说差强人意，具有一定的相关性但不是特别好。不过其R^2超过了0.5,对于判定用户消费习惯来说还是一个有必要的变量。</p>
+我选取的是Grocery变量。得到的结果显示score为0.6818.由于此时的分数代表和其他变量的相关性，即r^2越高与其他变量相关性越好，也就表明随着r^2增加该变量更容易被其他变量取代。此时r^2超过0.5，我认为对于预测用户数据来说其并不是一个必需特征，因为其易被其他特征取代。</p>
 
 </div>
 </div>
@@ -2376,7 +2376,7 @@ Ny7+WPF7swAAAABJRU5ErkJggg==
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p><strong>Answer:</strong>
-经过观察，我选取的Grocery变量与Detergents_Paper, Milk有一定的线性关系。Grocery变量与其余变量好像没有太明显的关系。因此上题中得到的0.681分数还是能说明一些相关性，但不是对所有变量都有关系。具有相关性特征的变量呈现正相关分布，如Grocery与Detergents_Paper变量，随着Grocery的增加，Detergents_Paper呈现线性增长的趋势。反过来，Grocery也随Detergents_Paper增加而线性增加。因此猜测这些相关变量呈线性分布。</p>
+经过观察，我选取的Grocery变量与Detergents_Paper, Milk有一定的线性关系。Grocery变量与其余变量好像没有太明显的关系。因此上题中得到的0.681分数还是能说明一些相关性，但不是对所有变量都有关系。根据图像，这些特征变量右高左低，呈现Positive Skew的属性。因此我猜测其分布为正偏分布，平均数大于中位数。</p>
 
 </div>
 </div>
